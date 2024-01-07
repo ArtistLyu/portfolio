@@ -1,18 +1,14 @@
 .bg_1{
     background-image: url(../image/j06.webp);
-    height: 100%;
 }
 .bg_2{
     background-image: url(../image/videoplayback.mp4_20240107_003246.397.webp);
-    height: 100%;
 }
 .bg_3{
     background-image: url(../image/factory.webp);
-    height: 100%;
 }
 .bg_4{
     background-image: url(../image/3.webp);
-    height: 100%;
 }
 .fixed_bg, .infos{
 position: relative;
