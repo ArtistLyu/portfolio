@@ -182,13 +182,28 @@ footer{
     width: 480px;
   }
   video{
-    width: 450px;
+    width: 440px;
   }
   li a img{
-    width: 450px;
+    width: 440px;
   }
   iframe{
-    width: 450px;
+    width: 440px;
+  }
+}
+@media only screen and (max-width: 500px) {
+  .container{
+    display: block;
+    width: 430px;
+  }
+  video{
+    width: 390px;
+  }
+  li a img{
+    width: 390px;
+  }
+  iframe{
+    width: 390px;
   }
 }
 .fixed_div{
