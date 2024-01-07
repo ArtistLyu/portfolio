@@ -1,27 +1,15 @@
 .bg_1{
-    background-image: url(../image/j06.png);
+    background-image: url(../image/j06.webp);
 }
 .bg_2{
-    background-image: url(../image/videoplayback.mp4_20240107_003246.397.png);
+    background-image: url(../image/videoplayback.mp4_20240107_003246.397.webp);
 }
 .bg_3{
-    background-image: url(../image/factory.jpg);
+    background-image: url(../image/factory.webp);
 }
 .bg_4{
-    background-image: url(../image/3.png);
+    background-image: url(../image/3.webp);
 }
-/* .color_1{
-    background-color: rgba(255, 102, 0, 0.5);
-}
-.color_2{
-    background-color: rgba(0, 132, 255, 0.5);
-}
-.color_3{
-    background-color: rgba(0, 247, 255, 0.5);
-}
-.color_4{
-    background-color: rgba(255, 0, 0, 0.5);
-} */
 .fixed_bg, .infos{
 position: relative;
 height: 100%;
