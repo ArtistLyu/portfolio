@@ -1,0 +1,50 @@
+.bg_1{
+    background-image: url(../image/j06.png);
+}
+.bg_2{
+    background-image: url(../image/videoplayback.mp4_20240107_003246.397.png);
+}
+.bg_3{
+    background-image: url(../image/factory.jpg);
+}
+.bg_4{
+    background-image: url(../image/3.png);
+}
+/* .color_1{
+    background-color: rgba(255, 102, 0, 0.5);
+}
+.color_2{
+    background-color: rgba(0, 132, 255, 0.5);
+}
+.color_3{
+    background-color: rgba(0, 247, 255, 0.5);
+}
+.color_4{
+    background-color: rgba(255, 0, 0, 0.5);
+} */
+.fixed_bg, .infos{
+position: relative;
+height: 100%;
+}
+html, body{
+    height: 100%;
+}
+.fixed_bg{
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.vcenter{
+	position: absolute;
+	top: 80%;
+	left: 15px; right: 15px;
+	transform: translate(0, -50%);
+	text-align: center;
+	color: #ffffff;
+	transition: all .25s;
+    font-size: 20px;
+}
+.ico_pos{
+    padding: 50px;
+  }
