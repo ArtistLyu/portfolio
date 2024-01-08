@@ -194,46 +194,46 @@ footer{
 @media (max-width: 414px) {
   .container{
     display: block;
-    width: 400px;
+    width: 350px;
   }
   video{
-    width: 390px;
+    width: 300px;
   }
   li a img{
-    width: 390px;
+    width: 300px;
   }
   iframe{
-    width: 390px;
+    width: 300px;
   }
 }
 @media (max-width: 375x) {
   .container{
     display: block;
-    width: 350px;
+    width: 300px;
   }
   video{
-    width: 320px;
+    width: 250px;
   }
   li a img{
-    width: 320px;
+    width: 250px;
   }
   iframe{
-    width: 320px;
+    width: 250px;
   }
 }
 @media (max-width: 300x) {
   .container{
     display: block;
-    width: 280px;
+    width: 250px;
   }
   video{
-    width: 250px;
+    width: 200px;
   }
   li a img{
-    width: 250px;
+    width: 200px;
   }
   iframe{
-    width: 250px;
+    width: 200px;
   }
 }
 .fixed_div{
