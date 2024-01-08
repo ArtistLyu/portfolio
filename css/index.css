@@ -176,10 +176,25 @@ footer{
     width: 500px;
   }
 }
-@media (max-width: 649px) {
+@media (max-width: 540x) {
   .container{
     display: block;
-    width: 430px;
+    width: 480px;
+  }
+  video{
+    width: 440px;
+  }
+  li a img{
+    width: 440px;
+  }
+  iframe{
+    width: 440px;
+  }
+}
+@media (max-width: 414px) {
+  .container{
+    display: block;
+    width: 400px;
   }
   video{
     width: 390px;
@@ -189,6 +204,36 @@ footer{
   }
   iframe{
     width: 390px;
+  }
+}
+@media (max-width: 375x) {
+  .container{
+    display: block;
+    width: 350px;
+  }
+  video{
+    width: 320px;
+  }
+  li a img{
+    width: 320px;
+  }
+  iframe{
+    width: 320px;
+  }
+}
+@media (max-width: 300x) {
+  .container{
+    display: block;
+    width: 280px;
+  }
+  video{
+    width: 250px;
+  }
+  li a img{
+    width: 250px;
+  }
+  iframe{
+    width: 250px;
   }
 }
 .fixed_div{
