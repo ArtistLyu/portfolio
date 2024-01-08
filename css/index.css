@@ -152,7 +152,7 @@ footer{
 .pos_fixed li a:hover{
 	color: #ff5943;
 }
-@media only screen and (max-width: 1300px) {
+@media (max-width: 1300px) {
   .container{
     display: block;
     width: 650px;
@@ -161,7 +161,7 @@ footer{
     width: 600px;
   }
 }
-@media only screen and (max-width: 767px) {
+@media (max-width: 767px) {
   .container{
     display: block;
     width: 650px;
@@ -176,7 +176,7 @@ footer{
     width: 500px;
   }
 }
-@media only screen and (max-width: 649px) {
+@media (max-width: 649px) {
   .container{
     display: block;
     width: 480px;
@@ -191,7 +191,7 @@ footer{
     width: 440px;
   }
 }
-@media only screen and (max-width: 480px) {
+@media (max-width: 480px) {
   .container{
     display: block;
     width: 430px;
