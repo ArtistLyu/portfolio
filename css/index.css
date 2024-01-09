@@ -177,7 +177,7 @@ footer{
     width: 500px;
   }
 }
-@media only screen and (max-width: 649px) {
+@media (max-width: 600px) {
   .container{
     display: block;
     width: 480px;
@@ -190,6 +190,21 @@ footer{
   }
   iframe{
     width: 450px;
+  }
+}
+@media (max-width: 498px) {
+  .container{
+    display: block;
+    width: 400px;
+  }
+  video{
+    width: 350px;
+  }
+  li a img{
+    width: 350px;
+  }
+  iframe{
+    width: 350px;
   }
 }
 @media (max-width: 414px) {
