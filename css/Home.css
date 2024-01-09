@@ -1,14 +1,14 @@
 .bg_1{
-    background-image: image-set(url(../image/j06.webp)1x,url(../image/j061.webp)2x,url(../image/j06.webp)600dpi);
+    background-image: image-set(url("../image/j06.webp")1x,url("../image/j061.webp")2x);
 }
 .bg_2{
-    background-image: image-set(url(../image/videoplayback.mp4_20240107_003246.397.webp)1x,url(../image/videoplayback1.webp)2x,url(../image/videoplayback.mp4_20240107_003246.397.webp)600dpi);
+    background-image: image-set(url("../image/videoplayback.mp4_20240107_003246.397.webp")1x,url("../image/videoplayback1.webp")2x);
 }
 .bg_3{
-    background-image: image-set(url(../image/factory.webp)1x,url(../image/factory1.webp)2x,url(../image/factory.webp)600dpi);
+    background-image: image-set(url("../image/factory.webp")1x,url("../image/factory1.webp")2x);
 }
 .bg_4{
-    background-image: image-set(url(../image/3.webp)1x,url(../image/31.webp)2x,url(../image/3.webp)600dpi);
+    background-image: image-set(url("../image/3.webp")1x,url("../image/31.webp")2x);
 }
 .fixed_bg, .infos{
 position: relative;
