@@ -1,5 +1,5 @@
 body {
-	background-image: image-set(url("../image/IMG_20230821.webp")1x,url("../image/IMG_20230821-2x.webp")2x);
+	background-image: image-set(url("../image/IMG_20230821.webp") 1x,url("../image/IMG_20230821-2x.webp") 2x );
 	background-repeat: no-repeat;
 	background-position: center bottom;
 	color: #fff;
