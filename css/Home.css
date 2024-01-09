@@ -36,3 +36,17 @@ html, body{
 .ico_pos{
     padding: 50px;
   }
+  @media (max-width: 768px) {
+    .bg_1{
+        background-image: url(../image/j061.webp);
+    }
+    .bg_2{
+        background-image: url(../image/videoplayback1.webp);
+    }
+    .bg_3{
+        background-image: url(../image/factory1.webp);
+    }
+    .bg_4{
+        background-image: url(../image/31.webp);
+    }
+  }
