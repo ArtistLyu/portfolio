@@ -1,0 +1,38 @@
+.bg_1{
+    background-image: image-set(url("../image/j06.webp")1x,url("../image/j06-2x.webp")2x);
+}
+.bg_2{
+    background-image: image-set(url("../image/videoplayback.mp4_20240107_003246.397.webp")1x,url("../image/videoplayback-2x.webp")2x);
+}
+.bg_3{
+    background-image: image-set(url("../image/factory.webp")1x,url("../image/factory-2x.webp")2x);
+}
+.bg_4{
+    background-image: image-set(url("../image/3.webp")1x,url("../image/3-2x.webp")2x);
+}
+.fixed_bg, .infos{
+position: relative;
+}
+html, body{
+    height: 100%;
+}
+.fixed_bg{
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+}
+.vcenter{
+	position: absolute;
+	top: 80%;
+	left: 15px; right: 15px;
+	transform: translate(0, -50%);
+	text-align: center;
+	color: #ffffff;
+	transition: all .25s;
+    font-size: 20px;
+}
+.ico_pos{
+    padding: 50px;
+  }
