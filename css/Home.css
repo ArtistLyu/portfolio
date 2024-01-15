@@ -33,11 +33,13 @@ body {
 }
 
 .fixed_bg {
-    background-position: center;
     background-attachment: fixed;
-    background-size: cover;
-    background-repeat: no-repeat;
     height: 100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
 }
 
 .vcenter {
