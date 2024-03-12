@@ -14,7 +14,7 @@ body{
   }
 .Word {
 	position: absolute;
-	top: 30%;
+	top: 40%;
 	left: 15px; right: 15px;
 	transform: translate(0, -50%);
 	text-align: center;
@@ -69,6 +69,6 @@ p {
   }	
 @media (min-device-width:361px) and (max-device-width:480px) {
 	.Word {
-		top: 40%;
+		top: 30%;
 	}
 }
