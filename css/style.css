@@ -69,6 +69,6 @@ p {
   }	
 @media (min-device-width:361px) and (max-device-width:480px) {
 	.Word {
-		top: 30%;
+		top: 25%;
 	}
 }
