@@ -14,7 +14,7 @@ body{
   }
 .Word {
 	position: absolute;
-	top: 30%;
+	top: 25%;
 	left: 15px; right: 15px;
 	transform: translate(0, -50%);
 	text-align: center;

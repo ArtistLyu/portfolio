@@ -6,6 +6,7 @@ body {
   text-size-adjust: none;
 }
 body {
+  background-image: url(../image/IMG_20230821.webp) ;
   background-position: center bottom;
   color: #fff;
   background-attachment: fixed;
@@ -128,7 +129,6 @@ p {
 }
 
 li p {
-  text-align: center;
   margin-top: 15px;
   font-size: 20px;
 }
