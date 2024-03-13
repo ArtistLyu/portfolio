@@ -106,11 +106,11 @@ body {
         max-height: 100%;
     }
     .bg_1
-     {display: none;}
+     {background-image: none;}
      .bg_2
-     {display: none;}
+     {background-image: none;}
      .bg_3
-     {display: none;}
+     {background-image: none;}
      .bg_4
-     {display: none;}
+     {background-image: none;}
 }
