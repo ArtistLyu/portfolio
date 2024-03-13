@@ -105,6 +105,8 @@ body {
     body {
         max-height: 100%;
     }
+}
+@supports(-webkit-touch-callout:none) {
     .bg_1{
         background-image: none;
     }
@@ -118,4 +120,3 @@ body {
         background-image: none;
     }
 }
-
