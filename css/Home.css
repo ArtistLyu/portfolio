@@ -1,7 +1,7 @@
 .bg_1{
     background-image: url(../image/j06.webp);
 }
-.bg_1:after{
+.bg_1:before{
     content: ' ';
     position: absolute;
     z-index: -1;
@@ -16,7 +16,7 @@
 .bg_2{
     background-image: url(../image/videoplayback.mp4_20240107_003246.397.webp);
 }
-.bg_2:after{
+.bg_2:before{
     content: ' ';
     position: absolute;
     z-index: -1;
@@ -31,7 +31,7 @@
 .bg_3{
     background-image: url(../image/factory.webp);
 }
-.bg_3:after{
+.bg_3:before{
     content: ' ';
     position: absolute;
     z-index: -1;
@@ -46,7 +46,7 @@
 .bg_4{
     background-image: url(../image/3.webp);
 }
-.bg_4:after{
+.bg_4:before{
     content: ' ';
     position: absolute;
     z-index: -1;
@@ -105,4 +105,12 @@ body {
     body {
         max-height: 100%;
     }
+    .bg_1
+     {display: none;}
+     .bg_2
+     {display: none;}
+     .bg_3
+     {display: none;}
+     .bg_4
+     {display: none;}
 }
