@@ -48,23 +48,28 @@
   background-image: url(../image/3.webp);
 }
 .bg_4:before{
-  content: ' ';
-  position: absolute;
-  z-index: -1;top: 0;
-  right: 0;bottom: 0;
-  left: 0;background: 
-  url(../image/3.webp) center 0 no-repeat; background-size: cover;background-color: transparent;
+    content: ' ';
+    position: absolute;
+    z-index: -1;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: url(../image/3.webp) center 0 no-repeat; 
+    background-size: cover;
+    background-color: transparent;
 }
 .bg_5{
   background-image: url(../image/Portfolio_Exhibition_by_Lyu.webp);
 }
 .bg_5:before{
-  content: ' ';
-  position: absolute;
-  z-index: -1;top: 0;
-  right: 0;
-  bottom: 0;
-  left: 0;
+    content: ' ';
+    position: absolute;
+    z-index: -1;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
   background: url(../image/Portfolio_Exhibition_by_Lyu.webp) center 0 no-repeat; 
   background-size: cover;
   background-color: transparent;
