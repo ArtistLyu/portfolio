@@ -1,0 +1,18 @@
+/* css/common.css */
+.back-to-top {
+  position: fixed;
+  bottom: 3vh;
+  right: 3vw;
+  z-index: 9999;
+  transition: opacity 0.3s;
+  display: none; /* 默認隱藏 */
+}
+.back-to-top img {
+  width: clamp(40px, 6vw, 80px);
+  height: auto;
+  filter: drop-shadow(0 2px 5px rgba(0,0,0,0.3));
+}
+@media (max-width: 768px) {
+  .back-to-top { bottom: 2vh; right: 2vw; }
+  .back-to-top img { width: clamp(35px, 8vw, 60px); }
+}
